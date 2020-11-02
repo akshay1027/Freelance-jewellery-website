@@ -98,6 +98,23 @@
   margin-bottom: 52px;
   margin-top: -120px;
 }
+
+#connect {
+  font-size: 2rem;
+  background-color: #d13fd1;
+  background-image: linear-gradient(to top, #8a2aba 0%, #ff1245 100%);
+  background-size: 100%;
+  -webkit-background-clip: text;
+  -moz-background-clip: text;
+  -webkit-text-fill-color: transparent;
+  -moz-text-fill-color: transparent;
+  text-transform: uppercase;
+  margin-bottom: 52px;
+  justify-content: center;
+  align-items: center;
+  display: flex;
+  margin-top: 5rem;
+}
 .main {
   background-color: #131313;
   padding: 10rem 0;
