@@ -372,7 +372,7 @@
 }
 
 .services__card:hover {
-  transform: scale(1.075);
+  transform: scale(1.099);
   transition: 0.3s ease-in;
   cursor: pointer;
 }
